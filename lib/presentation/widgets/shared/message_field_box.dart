@@ -15,7 +15,7 @@ class MessageFieldBox extends StatelessWidget {
         borderRadius: BorderRadius.circular(40));
 
     final inputDecoration = InputDecoration(
-      hintText: 'Envia tu mensaje con un "?"',
+      hintText: 'Envia tu mensaje con un «?»',
       enabledBorder: outlineInputBorder,
       focusedBorder: outlineInputBorder,
       filled: true,

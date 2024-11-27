@@ -74,4 +74,5 @@ Aplicaciones realizada en Flutter para Dispositivos Móviles, parte de la Unidad
 
 ![ResultCapture](https://media.discordapp.net/attachments/981402327074373672/1309960949326938112/image.png?ex=67437bb4&is=67422a34&hm=5dcbfc1620d941598358eeca4740e552f713b98d806551d4e6a16ad25c0dad80&=&format=webp&quality=lossless&width=320&height=676)
  
-![ResultCapture](https://media.discordapp.net/attachments/981402327074373672/1311324309771391026/image.png?ex=6748716e&is=67471fee&hm=cdce0620530dbec34d38d1b9d68f0bccae1692ea336fed3e9ec501fa91401f2e&=&format=webp&quality=lossless&width=320&height=676)
+ # Acción Remedial
+![ResultCapture](https://media.discordapp.net/attachments/981402327074373672/1311325758802755584/image.png?ex=674872c8&is=67472148&hm=3a6efc4ccd04bd91b342e3cbc3fd21b6237c7e2c41d53dc289c611f280bd9385&=&format=webp&quality=lossless&width=320&height=676)

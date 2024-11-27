@@ -11,6 +11,7 @@ class MyMessageBubble extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final String time = TimeOfDay.now().format(context);
     //final colors = Theme.of(context).colorScheme;
 
     return Column(
@@ -27,7 +28,26 @@ class MyMessageBubble extends StatelessWidget {
             ),
           ),
         ),
-        const SizedBox(height: 5)
+        const SizedBox(height: 2.5),
+      Row(
+          mainAxisAlignment: MainAxisAlignment.end,
+          children: [
+            // Hora del mensaje
+            Text(
+              time,
+              style: const TextStyle(fontSize: 12, color: Colors.grey),
+            ),
+            const SizedBox(width: 5), // Espacio entre la hora y la palomita
+            // Palomita de "visto"
+            Icon(
+              Icons.check_circle,
+              size: 18,
+              color: const Color.fromARGB(255, 5, 221,
+                  12), // Cambiar a verde para mostrar que el mensaje ha sido leído
+            ),
+          ],
+        ),
+        const SizedBox(height: 2.5),
       ],
     );
   }

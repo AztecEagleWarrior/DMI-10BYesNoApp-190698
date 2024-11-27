@@ -20,6 +20,7 @@ Aplicaciones realizada en Flutter para Dispositivos Móviles, parte de la Unidad
 |21|Integracion de Widgets|6|Finalizada|
 |22|Implementacion de la UI|7|Finalizada|
 |23|Implementacion de respuesta del chat|10|Finalizada|
+|--|Acción Remedial: Agregado hora de envió del mensaje y checkbox |10|Finalizada|
 
 
 ## Estructura de las carpetas
@@ -72,3 +73,5 @@ Aplicaciones realizada en Flutter para Dispositivos Móviles, parte de la Unidad
 <br>
 
 ![ResultCapture](https://media.discordapp.net/attachments/981402327074373672/1309960949326938112/image.png?ex=67437bb4&is=67422a34&hm=5dcbfc1620d941598358eeca4740e552f713b98d806551d4e6a16ad25c0dad80&=&format=webp&quality=lossless&width=320&height=676)
+ 
+![ResultCapture](https://media.discordapp.net/attachments/981402327074373672/1311324309771391026/image.png?ex=6748716e&is=67471fee&hm=cdce0620530dbec34d38d1b9d68f0bccae1692ea336fed3e9ec501fa91401f2e&=&format=webp&quality=lossless&width=320&height=676)
